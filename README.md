@@ -12,7 +12,7 @@
 - 🤖 **AI Agents & Workflows:** Building autonomous pipelines and AI agents using **n8n, Make, and Python**.
 - ⚙️ **DevOps & Cloud:** Designing secure, auto-scaling infrastructure using **Docker, Kubernetes, AWS, and GCP**.
 - 🔗 **Smart Integrations:** Bridging APIs, databases, and CRMs to create zero-touch automation.
-- ⚡ **Full-Stack Development:** Intersecting AI backend work with reliable frontend stacks (Next.js, Next/React).
+- 📱 **Web & Mobile Development:** Building responsive, high-performance web applications and cross-platform mobile apps using **Next.js, React, and Flutter**.
 
 ---
 
